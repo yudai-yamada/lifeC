@@ -1,4 +1,4 @@
-package com.example.mtgcounter;
+package com.example.lifecounter;
 
 import org.junit.Test;
 
